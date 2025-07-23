@@ -1,4 +1,4 @@
-# vibecoding
+# Summer Special term
 2025 하계 특별학기
 ai agent를 활용하여 prompting 
 
